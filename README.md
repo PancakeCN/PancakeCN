@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 🍗 I’m learning program hard, **hoping that one day I can be an excellent coder.**
 
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **QQ**(466491019).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
