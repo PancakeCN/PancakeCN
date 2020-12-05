@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 
 -->
+
+![profile](https://cdn2.sublimerui.top/2020/08/15/9929be5cb33ae.jpg)
+
 - 🔭 I’m currently studying in the university.
-
 - 😄 I’m currently learning C++, Python and JavaScript.
-
 - 🍗 I’m learning program hard, **hoping that one day I can be an excellent coder.**
-
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **QQ**(466491019).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
+[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
