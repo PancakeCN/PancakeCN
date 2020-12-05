@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-
-![profile](https://cdn2.sublimerui.top/2020/08/15/9929be5cb33ae.jpg)
-
+![profile](https://cdn2.sublimerui.top/2020/10/11/00ed4f7376d3b.png)
 - 🔭 I’m currently studying in the university.
 - 😄 I’m currently learning C++, Python and JavaScript.
 - 🍗 I’m learning program hard, **hoping that one day I can be an excellent coder.**
