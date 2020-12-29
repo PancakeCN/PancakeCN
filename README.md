@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **QQ**(466491019).
 
-[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
+[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwxyr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
