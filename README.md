@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwxyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![cwxyr](https://count.getloli.com/get/@cwxyr)
+
 <!--
 [![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
 - 👯 I’m looking to collaborate on ...
