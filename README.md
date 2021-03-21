@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently studying in the university.
-- 😄 I'm currently learning C++, Python and JavaScript.
+- 😄 I'm currently learning Java, Python and JavaScript.
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **QQ**(466491019).
