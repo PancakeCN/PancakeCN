@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ![profile](https://cdn2.sublimerui.top/2020/12/09/b7a9d6d2df001.jpeg)
 ![profile](https://cdn2.sublimerui.top/2020/10/11/00ed4f7376d3b.png)
 -->
-
+- 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm currently studying in the university.
 - 😄 I'm currently learning Java, Python and JavaScript.
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
