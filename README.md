@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm a student, currently studying in the university.
-- 😄 I'm currently learning **Java, Python and Vue.js.**
+- 😄 I'm currently learning **C++, Java, Python and Vue.js.**
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **QQ**(466491019).
