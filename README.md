@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+<img align="right" src="https://count.getloli.com/get/@cwxyr" />
+
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm a student, currently studying in the university.
 - 😄 I'm currently learning **Java, Python and Vue.js.**
