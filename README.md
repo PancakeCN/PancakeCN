@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://count.getloli.com/get/@cwxyr" />
 
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
-- 🔭 I'm a student, currently studying in the university.
+- 🔭 I'm a college student, currently studying in CUIT.
 - 😄 I'm currently learning **C++, Java, Python and Vue.js.**
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
