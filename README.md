@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm a college student, currently studying in CUIT.
 - 😄 I'm currently learning:
-` - [x] C++ basics
+  - [x] C++ basics
   - [x] Java basics and Oracle
   - [ ] Spring, SpringBoot and SpringMVC
   - [ ] Redis
