@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🔭 I'm a college student, currently studying in CUIT.
 - 😄 I'm currently learning:
   - [x] C++ basics
-  - [x] Java basics and Oracle
-  - [ ] Spring, SpringBoot and SpringMVC
-  - [ ] Redis
+  - [x] Java basics and MySQL
+  - [ ] Oracle, Spring and Redis
+  - [ ] Golang
   - [x] Python
   - [x] Vue.js
   - [ ] TypeScript
