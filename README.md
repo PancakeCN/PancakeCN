@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - [ ] TypeScript
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
-- 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **Telegram**(t.me/Pancake_CN).
+- 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **Telegram**(<t.me/Pancake_CN>).
 
 [![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwxyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
