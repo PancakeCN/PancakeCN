@@ -1,11 +1,11 @@
 ### Hi there 👋 こんにちは~🎈
 
 <!--
-**cwxyr/cwxyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PancakeCN/PancakeCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-<img align="right" src="https://count.getloli.com/get/@cwxyr" />
+<img align="right" src="https://count.getloli.com/get/@PancakeCN" />
 
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm a college student, currently studying in CUIT.
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **Telegram**(@Pancake_CN).
 
-[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwxyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![PancakeCN's github stats](https://github-readme-stats.vercel.app/api?username=PancakeCN&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PancakeCN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-[![cwxyr's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
+[![PancakeCN's github stats](https://github-readme-stats.vercel.app/api?username=cwxyr)](https://github.com/cwxyr/github-readme-stats)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
