@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<img align="right" src="https://count.getloli.com/get/@PancakeCN" />
+<img align="right" src="https://count.getloli.com/get/@PancakeCN?theme=rule34" />
 
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm a college student, currently studying in CUIT.
