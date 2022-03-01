@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - [ ] Golang
   - [x] Python
   - [x] Vue.js
-  - [ ] TypeScript
+  - [x] TypeScript
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com) or **Telegram**([@Pancake_CN](https://t.me/Pancake_CN)).
