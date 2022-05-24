@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 <img align="right" src="https://count.getloli.com/get/@cwxyr?theme=rule34" />
 
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
-- 🔭 I'm a college student, currently studying in CUIT.
+- 🔭 I'm a postgraduate, currently studying in the university.
 - 😄 I'm currently learning:
   - [x] C++ basics
   - [x] Java basics and MySQL
-  - [ ] Oracle, Spring and Redis
+  - [x] Oracle, Spring and Redis
   - [ ] Golang
   - [x] Python
   - [x] Vue.js
