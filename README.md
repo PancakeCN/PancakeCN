@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 - 🌮 You can call me PANCAKE or 煎饼果子 freely.
 - 🔭 I'm a postgraduate, currently studying in the university.
 - 😄 I'm currently learning:
-  - [x] C++ basics
-  - [x] Java basics and MySQL
-  - [x] Oracle, Spring and Redis
-  - [ ] Golang
+  - [x] Docker/kubernetes
+  - [x] Java/Spring Framework
+  - [ ] Redis、etcd、Nacos....
+  - [x] Golang
   - [x] Python
   - [x] Vue.js
-  - [x] TypeScript
+  - [ ] TypeScript
 - 🍗 I'm learning program hard, **hoping that one day I can be an excellent coder.**
 - 💬 I can speak Chinese, English and a little bit Japanese.
 - 📫 You can contact me via **Gmail**(sublime.rui@gmail.com).
